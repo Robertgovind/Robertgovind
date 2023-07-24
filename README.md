@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govind Kr Yadav</h1>
-<h3 align="center">A tech enthusiast from Nepal who loves to learn about AI and Android App Development in the tech world.Currently, I'm pursuing Bachelor of Electronics Communication and Information Engineering at I.O.E Paschimanchal Campus which is located in Pokhara, Nepal. I'm exploring different fields of the tech industry and for some time I am learning Flutter,DSA and few more.</h3>
+<h3 align="left">A tech enthusiast from Nepal who loves to learn about AI and Android App Development in the tech world.Currently, I'm pursuing Bachelor of Electronics Communication and Information Engineering at I.O.E Paschimanchal Campus which is located in Pokhara, Nepal. I'm exploring different fields of the tech industry and for some time I am learning Flutter,DSA and few more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertgovind&label=Profile%20views&color=0e75b6&style=flat" alt="robertgovind" /> </p>
 
