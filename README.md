@@ -39,5 +39,4 @@
 
 ### 📈 My GitHub Contributions
 ![Snake animation](https://github.com/Robertgovind/Robertgovind/blob/output/github-contribution-grid-snake.svg)
-<img align="left" alt="GIF" src="https://github.com/Robertgovind/images/blob/master/Profile%20Readme/github-contribution-grid-snake.svg"/>
 
