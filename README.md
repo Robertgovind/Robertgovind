@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertgovind&label=Profile%20views&color=0e75b6&style=flat" alt="robertgovind" /> </p>
 
-- 🔭 I’m currently working on [BMI Calculator](https://github.com/Robertgovind/BMI-Calculator)
+- 🔭 I’m currently working on [Daily UI Challange](https://github.com/Robertgovind/BMI-Calculator)
 
 - 🌱 I’m currently learning **Flutter**
 
