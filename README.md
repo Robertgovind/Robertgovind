@@ -3,17 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertgovind&label=Profile%20views&color=0e75b6&style=flat" alt="robertgovind" /> </p>
 
-- 🔭 I’m currently working on [Daily UI Challange](https://github.com/Robertgovind/BMI-Calculator)
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **AI related projects**
-
-- 🤝 I’m looking for help with [Progress Feed App](https://github.com/Robertgovind/Progress-Feed-App-)
+- 🌱 I’m currently learning **DSA and Machine Learninig**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Robertgovind](https://github.com/Robertgovind)
-
-- 💬 Ask me about **Android App Development**
 
 - 📫 How to reach me **govind803556@gmail.com**
 
