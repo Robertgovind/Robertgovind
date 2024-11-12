@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robertgovind&label=Profile%20views&color=0e75b6&style=flat" alt="robertgovind" /> </p>
 
-- 🌱 I’m currently learning **DSA and Machine Learninig**
+- 🌱 I’m currently learning **DSA and Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Robertgovind](https://github.com/Robertgovind)
 
